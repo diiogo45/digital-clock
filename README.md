@@ -17,4 +17,4 @@ As seguintes tecnologias foram usadas na construção do projeto:
 ### 📷 Prints:
 
 #### Desktop:
-<img src="https://i.ibb.co/th2T5GQ/DESKTOP-1.png" width="30%"></img> <img src="https://i.ibb.co/MsPhNcj/DESKTOP-2.png" width="30%"></img> <img src="https://i.ibb.co/3Y3yDbK/DESKTOP-3.png" width="30%"></img> 
+<img src="https://i.ibb.co/th2T5GQ/DESKTOP-1.png](https://i.ibb.co/ctmGRpB/mobile.gif" width="40%">
