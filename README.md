@@ -18,4 +18,4 @@ As seguintes tecnologias foram usadas na construção do projeto:
 
 #### Desktop:
 
-<img src="https://i.ibb.co/ctmGRpB/mobile.gif" width="40">
+<img src="https://i.ibb.co/ctmGRpB/mobile.gif" width="40%">
